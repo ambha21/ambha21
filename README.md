@@ -2,7 +2,7 @@
 I'm a student studying computer science and math, among other things
 
 Contact Me
-- Website: [ambha21.vercel.app](https://ambha21.vercel.app)
+<!--- Website: [ambha21.vercel.app](https://ambha21.vercel.app)-->
 - X: [AmBha_21](https://x.com/AmBha_21)
 
 <!--
