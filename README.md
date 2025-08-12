@@ -1,9 +1,9 @@
 ## Hi 👋
-I'm a student studying computer science and math, among other things
+I'm a student studying computer science and math, among other things. Right now I'm researching HPC systems, distributed ML training, and ML within epidemology
 
-Contact Me
+<!--- Contact Me
 <!--- Website: [ambha21.vercel.app](https://ambha21.vercel.app)-->
-- X: [AmBha_21](https://x.com/AmBha_21)
+<!---  - X: [AmBha_21](https://x.com/AmBha_21) -->
 
 <!--
 **AmBha21/ambha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
